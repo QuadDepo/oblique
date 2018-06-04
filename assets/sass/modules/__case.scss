@@ -1,0 +1,16 @@
+#body {
+  .row--big {
+    @extend %section--big;
+  }
+
+  .row--small {
+    @extend %section--small;
+  }
+
+  .case {
+    h3 {
+      margin-top: 15px;
+    }
+  }
+
+}

@@ -1,0 +1,17 @@
+{
+  "name": "oblique",
+  "authors": [
+    "Quaddepo <23100@ma-web.nl>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
